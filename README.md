@@ -1,4 +1,4 @@
 # VSZipper
 Zips visual studio without unnecessary files and folders
 
-#hi sameer
+# sup bro
